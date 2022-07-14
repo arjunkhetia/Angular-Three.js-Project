@@ -1,4 +1,4 @@
-# AngularThree.JsProject
+# Angular Three.Js Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
@@ -25,3 +25,20 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+# Three.Js
+
+Three.js is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
+
+### Sphere Geometry (wireframe)
+
+![sphere](https://github.com/arjunkhetia/Angular-Three.js-Project/blob/main/src/assets/sphere.png "sphere")
+
+### Sphere Geometry (Mesh Normal Material - wireframe)
+
+![wireframe](https://github.com/arjunkhetia/Angular-Three.js-Project/blob/main/src/assets/wireframe.png "wireframe")
+
+### GLTF Model Loaded
+
+![gltf](https://github.com/arjunkhetia/Angular-Three.js-Project/blob/main/src/assets/gltf.png "gltf")
